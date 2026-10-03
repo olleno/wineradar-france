@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://france.wineradar.net/sitemap.xml

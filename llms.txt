@@ -1,0 +1,32 @@
+# Wine Radar
+
+> Every winery in Europe's wine regions on a map: producer pages with location, website, guide ratings and press, plus places to eat and stay, trip planning and books. Independent and free to use. Data from Falstaff and other wine guides, the wineries' own websites, OpenStreetMap and Wikimedia Commons; checked weekly.
+
+Languages: English (main), German, Dutch, Swedish and 19 more. Methods: https://france.wineradar.net/how-we-work/
+
+## Bourgogne (450 wineries, 90 villages)
+
+- [Bourgogne wine region](https://france.wineradar.net/france/bourgogne/): overview, grapes, sub-regions
+- [Map of all wineries](https://france.wineradar.net/france/bourgogne/map/)
+- [Wine trip planner](https://france.wineradar.net/france/bourgogne/trip-planner/)
+- [Wineries open to visitors](https://france.wineradar.net/france/bourgogne/wineries-open-to-visitors/)
+- [Organic wineries](https://france.wineradar.net/france/bourgogne/organic-wineries/)
+- [Top rated wineries](https://france.wineradar.net/france/bourgogne/top-rated-wineries/)
+- [Sweet wine producers](https://france.wineradar.net/france/bourgogne/sweet-wine-producers/)
+- [Best restaurants](https://france.wineradar.net/france/bourgogne/best-restaurants/)
+- [Heuriger wine taverns](https://france.wineradar.net/france/bourgogne/heuriger-wine-taverns/)
+- [Where to stay](https://france.wineradar.net/france/bourgogne/where-to-stay/)
+- [Hidden gems](https://france.wineradar.net/france/bourgogne/hidden-gems/)
+- [Books and guides](https://france.wineradar.net/france/bourgogne/books-and-guides/)
+- [Wineries in Meursault](https://france.wineradar.net/france/bourgogne/village/meursault/)
+- [Wineries in Gevrey-Chambertin](https://france.wineradar.net/france/bourgogne/village/gevrey-chambertin/)
+- [Wineries in Beaune](https://france.wineradar.net/france/bourgogne/village/beaune/)
+- [Wineries in Chablis](https://france.wineradar.net/france/bourgogne/village/chablis/)
+- [Wineries in Saint-Bris-le-Vineux](https://france.wineradar.net/france/bourgogne/village/saint-bris-le-vineux/)
+- [Wineries in Vosne-Romanée](https://france.wineradar.net/france/bourgogne/village/vosne-romanee/)
+- [Wineries in Nuits-Saint-Georges](https://france.wineradar.net/france/bourgogne/village/nuits-saint-georges/)
+- [Wineries in Chassagne-Montrachet](https://france.wineradar.net/france/bourgogne/village/chassagne-montrachet/)
+
+## For wineries
+
+- [Wine Radar Plus for wineries](https://france.wineradar.net/for-wineries/): photos, opening hours, booking and events on the winery page
