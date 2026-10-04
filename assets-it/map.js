@@ -8,7 +8,7 @@
     var col=WR.col();
     var map=L.map(el,{zoomSnap:0.5,minZoom:8,maxZoom:16,scrollWheelZoom:false});
     map.attributionControl.setPrefix(false);
-    map.attributionControl.addAttribution('Natural Earth · © OpenStreetMap contributors · Falstaff · Burgenland Tourismus');
+    map.attributionControl.addAttribution('Natural Earth · © OpenStreetMap contributors · Falstaff');
     if(window.WR_TILES&&L.maplibreGL){
       /* real street map (OpenFreeMap, free vector tiles) on the live site */
       L.maplibreGL({style:window.WR_TILES,attribution:'<a href="https://openfreemap.org" target="_blank" rel="noopener">OpenFreeMap</a> © OpenMapTiles © OpenStreetMap'}).addTo(map);
