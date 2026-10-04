@@ -50,6 +50,29 @@ Languages: English (main), German, Dutch, Swedish and 19 more. Methods: https://
 - [Wineries in Nuits-Saint-Georges](https://france.wineradar.net/france/bourgogne/village/nuits-saint-georges/)
 - [Wineries in Chassagne-Montrachet](https://france.wineradar.net/france/bourgogne/village/chassagne-montrachet/)
 
+## Champagne (230 wineries, 91 villages)
+
+- [Champagne wine region](https://france.wineradar.net/france/champagne/): overview, grapes, sub-regions
+- [Map of all wineries](https://france.wineradar.net/france/champagne/map/)
+- [Wine trip planner](https://france.wineradar.net/france/champagne/trip-planner/)
+- [Wineries open to visitors](https://france.wineradar.net/france/champagne/wineries-open-to-visitors/)
+- [Organic wineries](https://france.wineradar.net/france/champagne/organic-wineries/)
+- [Top rated wineries](https://france.wineradar.net/france/champagne/top-rated-wineries/)
+- [Sweet wine producers](https://france.wineradar.net/france/champagne/sweet-wine-producers/)
+- [Best restaurants](https://france.wineradar.net/france/champagne/best-restaurants/)
+- [Heuriger wine taverns](https://france.wineradar.net/france/champagne/heuriger-wine-taverns/)
+- [Where to stay](https://france.wineradar.net/france/champagne/where-to-stay/)
+- [Hidden gems](https://france.wineradar.net/france/champagne/hidden-gems/)
+- [Books and guides](https://france.wineradar.net/france/champagne/books-and-guides/)
+- [Wineries in Reims](https://france.wineradar.net/france/champagne/village/reims/)
+- [Wineries in Épernay](https://france.wineradar.net/france/champagne/village/epernay/)
+- [Wineries in Aÿ-Champagne](https://france.wineradar.net/france/champagne/village/ay-champagne/)
+- [Wineries in Le Mesnil-sur-Oger](https://france.wineradar.net/france/champagne/village/le-mesnil-sur-oger/)
+- [Wineries in Blancs-Coteaux](https://france.wineradar.net/france/champagne/village/blancs-coteaux/)
+- [Wineries in Arrentières](https://france.wineradar.net/france/champagne/village/arrentieres/)
+- [Wineries in Avize](https://france.wineradar.net/france/champagne/village/avize/)
+- [Wineries in Bouzy](https://france.wineradar.net/france/champagne/village/bouzy/)
+
 ## For wineries
 
 - [Wine Radar Plus for wineries](https://france.wineradar.net/for-wineries/): photos, opening hours, booking and events on the winery page
