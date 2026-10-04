@@ -988,3 +988,8 @@ ul.tips{list-style:none;padding:0;margin:8px 0}ul.tips li{padding:10px 0;border-
 .tip-form{display:flex;flex-direction:column;gap:8px;margin-top:10px}.tip-form .btn{align-self:flex-start}
 .cm-count{font-weight:600}
 .chips .chip.on{background:var(--accent);color:var(--accent-ink);border-color:var(--accent)}
+.card.regcard{padding-top:0}
+.card.regcard figure.card-photo{margin:0 0 10px}
+.card.regcard figure.card-photo img{aspect-ratio:3/2}
+.card.off{color:var(--muted);cursor:default}
+.card.off:hover{border-color:var(--line)}
