@@ -4,6 +4,29 @@
 
 Languages: English (main), German, Dutch, Swedish and 19 more. Methods: https://france.wineradar.net/how-we-work/
 
+## Bordeaux (1184 wineries, 237 villages)
+
+- [Bordeaux wine region](https://france.wineradar.net/france/bordeaux/): overview, grapes, sub-regions
+- [Map of all wineries](https://france.wineradar.net/france/bordeaux/map/)
+- [Wine trip planner](https://france.wineradar.net/france/bordeaux/trip-planner/)
+- [Wineries open to visitors](https://france.wineradar.net/france/bordeaux/wineries-open-to-visitors/)
+- [Organic wineries](https://france.wineradar.net/france/bordeaux/organic-wineries/)
+- [Top rated wineries](https://france.wineradar.net/france/bordeaux/top-rated-wineries/)
+- [Sweet wine producers](https://france.wineradar.net/france/bordeaux/sweet-wine-producers/)
+- [Best restaurants](https://france.wineradar.net/france/bordeaux/best-restaurants/)
+- [Heuriger wine taverns](https://france.wineradar.net/france/bordeaux/heuriger-wine-taverns/)
+- [Where to stay](https://france.wineradar.net/france/bordeaux/where-to-stay/)
+- [Hidden gems](https://france.wineradar.net/france/bordeaux/hidden-gems/)
+- [Books and guides](https://france.wineradar.net/france/bordeaux/books-and-guides/)
+- [Wineries in Saint-Émilion](https://france.wineradar.net/france/bordeaux/village/saint-emilion/)
+- [Wineries in Pomerol](https://france.wineradar.net/france/bordeaux/village/pomerol/)
+- [Wineries in Saint-Estèphe](https://france.wineradar.net/france/bordeaux/village/saint-estephe/)
+- [Wineries in Libourne](https://france.wineradar.net/france/bordeaux/village/libourne/)
+- [Wineries in Margaux-Cantenac](https://france.wineradar.net/france/bordeaux/village/margaux-cantenac/)
+- [Wineries in Pauillac](https://france.wineradar.net/france/bordeaux/village/pauillac/)
+- [Wineries in Léognan](https://france.wineradar.net/france/bordeaux/village/leognan/)
+- [Wineries in Saint-Christophe-des-Bardes](https://france.wineradar.net/france/bordeaux/village/saint-christophe-des-bardes/)
+
 ## Bourgogne (450 wineries, 90 villages)
 
 - [Bourgogne wine region](https://france.wineradar.net/france/bourgogne/): overview, grapes, sub-regions
